@@ -20,7 +20,8 @@
 - Module 14: Study Ktor Framework
 - Module 15: Concurrency
 - Module 16: Caching
-- Module 17: 
-- Module 18:
-- Module 19:
+- Module 17: Message Queue I   (RabbitMQ)
+- Module 18: Message Queue II  (Kafka)
+- Moduel 19: Flink with Kafka
+- Module 20: Message Queue III ([Fluvio](https://github.com/infinyon/fluvio))
 
