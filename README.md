@@ -24,4 +24,5 @@
 - Module 18: Message Queue II  (Kafka)
 - Moduel 19: Flink with Kafka
 - Module 20: Message Queue III ([Fluvio](https://github.com/infinyon/fluvio))
+- Module 21: Terraform
 
